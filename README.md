@@ -147,6 +147,7 @@ PUTCHAR_PROTOTYPE{
   }
 ```
 ## Output screen shots on serial monitor   :
+![WhatsApp Image 2025-11-01 at 09 45 13_9440aa5d](https://github.com/user-attachments/assets/7df14e92-3dbf-40db-af75-a27858c14b1b)
 <img width="1011" height="818" alt="image" src="https://github.com/user-attachments/assets/e5df9304-e9bd-47ae-98d5-0fd45ff4b748" />
 
 ## Result :
