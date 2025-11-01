@@ -145,9 +145,9 @@ PUTCHAR_PROTOTYPE{
 	  HAL_UART_Transmit(&huart2,(uint8_t*)&ch,1,0xFFFF);
 	  return ch;
   }
-
+```
 ## Output screen shots on serial monitor   :
- <img width="1011" height="818" alt="image" src="https://github.com/user-attachments/assets/724c8b0c-b3fe-45f5-b488-94587c6e66e9" />
+<img width="1011" height="818" alt="image" src="https://github.com/user-attachments/assets/e5df9304-e9bd-47ae-98d5-0fd45ff4b748" />
 
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
